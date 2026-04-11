@@ -1,7 +1,2 @@
-[ Raw ] [ Blame ] [ History ]  
-          ggfdfgdfg
-Test Test Test
-Here we go again
- 
- 
-asdfdasfdsa
+# Operator Platform
+Event-driven AI platform for engineering signal extraction.
